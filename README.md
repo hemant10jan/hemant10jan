@@ -5,7 +5,7 @@ Additionally, have hands-on project experience with the __MERN stack__ including
 Strong in data structures, algorithms and Java with __800+ coding problems__ solved across LeetCode, GeeksforGeeks and HackerRank.
 
 ---
-## Tech Stack
+## U+1F527 Tech Stack
 
 
 <!--

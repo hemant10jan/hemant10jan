@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Hemant Singh!
 
-Welcome to my GitHub! I'm a Software Engineer with 1.5 years of professional experience working on real-time web applications using ASP.NET MVC, handling enhancements, bug fixes, content customization, and feature development.
+Welcome to my GitHub! I'm a Software Engineer with 1.5 years of professional experience working on real-time web application using ASP.NET MVC, handling enhancements, bug fixes, content customization, and feature development.
 Additionally, have hands-on project experience with the MERN stack including REST API development, responsive UI with React & TailwindCSS, JWT-based authentication and database integration with Prisma ORM and Zod validation.
 Strong in data structures, algorithms and Java with 800+ coding problems solved across LeetCode, GeeksforGeeks, and HackerRank.
 
